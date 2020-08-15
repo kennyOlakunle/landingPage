@@ -1,0 +1,19 @@
+body {
+  background: #333;
+}
+.content {
+  position: absolute;
+  z-index: 999;
+  color: #fff;
+  top: 50%;
+  left: 15%;
+  transform: translateY(-50%);
+  user-select: none;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 7vw;
+    transform: translatex(30%);
+  }
+}

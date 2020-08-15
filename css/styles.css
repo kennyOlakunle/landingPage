@@ -48,12 +48,16 @@ main > .intro {
   font-family: 'Reem Kufi', sans-serif;
   font-size: 3.75em;
   font-weight: 600;
+  text-align: center;
+  margin-left: 15vh !important;
 }
 
 main > .tagline {
   font-size: 1.5rem;
   margin: 1.5rem 0;
   font-weight: 100;
+  text-align: center;
+  margin-left: 15vh !important;
 }
 
 .icons-social i {
